@@ -1,6 +1,6 @@
-## DNSC 6216: Business Analytics Skills
+# DNSC 6216: Business Analytics Skills
 
-## Shivraj Kanungo
+# Shivraj Kanungo
 
 # Tableau Final Report
 
