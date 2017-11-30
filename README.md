@@ -37,3 +37,5 @@ Not only did we found challenges, but also encountered challenges by complementi
 The file attacted: Tableau Workbook
 
 The link for the workbook:
+
+https://public.tableau.com/profile/mengqi.li#!/vizhome/workshopFINAL/Story1?publish=yes
