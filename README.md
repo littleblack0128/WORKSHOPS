@@ -1,8 +1,12 @@
 ##### WORKSHOP
 ##### BUSINESS ANALYTICS SKILLS WORKSHOP
 
-# Tableau Final Report: 
-# Challenges and Accomplishments of Visualizing Unemployment
+## DNSC 6216: Business Analytics Skills
+
+## Shivraj Kanungo
+
+# Tableau Final Report
+
 ### Group #7：
 ### Mengqi Li
 ### Minxuan Chen
@@ -10,9 +14,6 @@
 ### Weichao Zhu
 ### Xing Zhang
 
-
-## DNSC 6216: Business Analytics Skills
-## Shivraj Kanungo
 
 
 Unemployment has always been a hot issue in the United States, and it is a big concern for international students. As graduate students who expect to land a job or internship after graduation, we decide to look at the huge issue from a student’s sight. In addition, the aspects which students are interested when facing career decisions will be examined. We made several assumptions about what might affect unemployment rate among namely poverty rate, household income, or education level. We dig deep into the influencing factors and see their impacts to unemployment rate as well as the correlation between them.
