@@ -33,3 +33,6 @@ During our exploring to the data,we have encounter the following challenges. We 
  
  
 Not only did we found challenges, but also encountered challenges by complementing analysis methods. For example, for how to find the correlation between unemployment rate and other variables, we used relevant analysis to show the relationships between unemployment rate and other variables.
+
+The file attacted: Tableau Workbook
+The link for the workbook:
