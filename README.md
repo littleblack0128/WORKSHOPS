@@ -1,6 +1,3 @@
-##### WORKSHOP
-##### BUSINESS ANALYTICS SKILLS WORKSHOP
-
 ## DNSC 6216: Business Analytics Skills
 
 ## Shivraj Kanungo
