@@ -2,12 +2,12 @@
 BUSINESS ANALYTICS SKILLS WORKSHOP
 
 Tableau Final Report: Challenges and Accomplishments of Visualizing Unemployment
-Group #7：
-Mengqi Li
-Minxuan Chen
-Wanmo Chen
-Weichao Zhu
-Xing Zhang
+* Group #7：
+* Mengqi Li
+* Minxuan Chen
+* Wanmo Chen
+* Weichao Zhu
+* Xing Zhang
 
 
 DNSC 6216: Business Analytics Skills
